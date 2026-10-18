@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sentence-transformers>=2.7
+rank-bm25>=0.2.2
+numpy>=1.26
+httpx>=0.27
