@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BSEHons Policy Retrieval (FastAPI tool)
 
 Semantic + keyword search over the OUSL BSEHons 2025/2026 Student Guidebook. Built to be one tool in an agentic chatbot.
@@ -55,6 +55,4 @@ Fetch `GET /tool-spec`, register it as a tool, and have the tool call `POST /sea
 - Dates and fees are for the 2025/2026 intake; regenerate the corpus each year.
 - Source inconsistencies are noted inside the affected chunks (e.g. payment example 30 vs 31 credits).
 =======
-# sementic-policy-retriever
-Sentence Bert based Natural language supported policy retrieving Chatbot
->>>>>>> origin/main
+
